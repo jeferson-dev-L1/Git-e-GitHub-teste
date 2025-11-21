@@ -16,3 +16,7 @@ Repositório de teste
 ## Próximos Passos
 * Praticar o *branching* (`git branch`, `git checkout`).
 * Aprender sobre *merge* e *rebase*.
+
+Glossário:
+Interpretador:
+Linguagem da Máquina:

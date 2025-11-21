@@ -5,8 +5,6 @@ Repositório de teste
  O Caminho é a Mão na Massa! Todos os códigos, desafios e projetos que estou desenvolvendo durante os cursos serão commitados e organizados aqui. Se você também está estudando pela DIO ou está interessado nos temas, fique à vontade para explorar a estrutura.
 #  Minhas Anotações sobre Git & GitHub (Curso DIO)
 
-# 📚 Minhas Anotações sobre Git & GitHub
-
 ## Comandos Essenciais da DIO
 
 * `git init`: Inicializa um repositório Git local.
